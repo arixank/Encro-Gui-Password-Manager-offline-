@@ -8,8 +8,6 @@ A simple offline password a manager with search and generate password features..
 
 ## Prevents Overppulating the Password field
 
-![pop](poppulating passwords.gif)
-
 ## Basic Validation:
 
 ![validation](encro.gif)
