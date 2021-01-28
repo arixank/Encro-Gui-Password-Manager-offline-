@@ -24,4 +24,4 @@ A simple offline password a manager with search and generate password features..
 # Please Subscribe and Share
 Link: https://www.youtube.com/channel/UCMJ5uaHN9srQcijCHQfW9MQ
 
-#100days of code
+# 100days of code
