@@ -6,7 +6,7 @@ A simple offline password  manager with search and generate password features...
 
 # Features:
 
-## Prevents Overpoppulating the Password field
+## Prevents Over poppulating the Password field
 
 ## Basic Validation:
 
