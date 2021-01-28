@@ -6,7 +6,7 @@ A simple offline password a manager with search and generate password features..
 
 # Features:
 
-## Prevents Overppulating the Password field
+## Prevents Overpoppulating the Password field
 
 ## Basic Validation:
 
