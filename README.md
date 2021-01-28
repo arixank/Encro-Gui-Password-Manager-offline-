@@ -2,7 +2,7 @@
 
 ![Logo](Logo.png)
 
-A simple offline password a manager with search and generate password features....! And Yes With A COOL DARK THEME.
+A simple offline password  manager with search and generate password features....! And Yes With A COOL DARK THEME.
 
 # Features:
 
